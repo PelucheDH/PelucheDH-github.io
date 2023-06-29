@@ -1,0 +1,128 @@
+.e4_15 { 
+	overflow:hidden;
+}
+.e4_15 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1481px;
+	height:1024px;
+	position:absolute;
+}
+.e10_2 { 
+	width:1819px;
+	height:1024px;
+	position:absolute;
+	left:-184px;
+	top:0px;
+	background-image:url(images/fantasy_2847724_1920_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e10_4 { 
+	background-image:linear-gradient(0deg, rgba(4.000000236555934, 4.000000236555934, 4.000000236555934, 1) 25.52083432674408%,rgba(162.97865062952042, 164.83134001493454, 167.87500709295273, 0) 100%) ;
+	width:1481px;
+	height:38px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.e10_5 { 
+	background-image:linear-gradient(0deg, rgba(19.0000007674098, 25.000000409781933, 29.000000171363354, 0) 0%,rgba(0, 0, 0, 1) 61.45833134651184%) ;
+	width:1481px;
+	height:38px;
+	position:absolute;
+	left:0px;
+	top:986px;
+}
+.e7_20 { 
+	color:rgba(11.191666759550571, 15.606001038104296, 17.00000088661909, 0.20999999344348907);
+	width:808px;
+	height:381px;
+	position:absolute;
+	left:336px;
+	top:144px;
+	font-family:Jacques Francois Shadow;
+	text-align:center;
+	font-size:96px;
+	letter-spacing:0;
+}
+.e7_79 { 
+	color:rgba(255, 255, 255, 0.699999988079071);
+	width:772px;
+	height:157px;
+	position:absolute;
+	left:354px;
+	top:782px;
+	font-family:Dancing Script;
+	text-align:center;
+	font-size:48px;
+	letter-spacing:0;
+}
+.e40_51 { 
+	color:rgba(249.6875050663948, 0, 0, 0.5);
+	width:208px;
+	height:39px;
+	position:absolute;
+	left:1273px;
+	top:985px;
+	font-family:Jacques Francois Shadow;
+	text-align:center;
+	font-size:16px;
+	letter-spacing:0;
+}
+
+/*.e7_80 { 
+	background-color:rgba(70.05416572093964, 81.99381664395332, 91.37499645352364, 1);
+	width:312px;
+	height:78px;
+	position:absolute;
+	left:584px;
+	top:631px;
+	border-top-left-radius:30px;
+	border-top-right-radius:30px;
+	border-bottom-left-radius:30px;
+	border-bottom-right-radius:30px;
+}
+.e7_80 { 
+	border:5px solid rgba(0, 0, 0, 1);
+}
+.e7_81 { 
+	color:rgba(189.00000393390656, 206.0000029206276, 231.00000143051147, 1);
+	width:235px;
+	height:22px;
+	position:absolute;
+	left:623px;
+	top:658px;
+	font-family:Cinzel Decorative;
+	text-align:center;
+	font-size:32px;
+	letter-spacing:0;
+	text-decoration: none;
+}*/
+.Ingresar {
+	color: rgb(172, 171, 171);
+	background-color:rgba(70.05416572093964, 81.99381664395332, 91.37499645352364, 1);
+	font-family: inherit;
+	padding: 0.6em 1.3em;
+	font-weight: 900;
+	font-size: 18px;
+	border: 3px solid black;
+	border-radius: 0.4em;
+	box-shadow: 0.1em 0.1em;
+	width:210px;
+	height:90px;
+	position:absolute;
+	left:620px;
+	top:650px;
+	font-family:Cinzel Decorative;
+	text-align:center;
+	font-size:32px;
+	text-decoration: none;
+  }
+.Ingresar:hover {
+	transform: translate(-0.08em, -0.08em);
+	box-shadow: 0.15em 0.15em;
+}
+.Ingresar:active {
+	transform: translate(0.05em, 0.05em);
+	box-shadow: 0.05em 0.05em;
+}
